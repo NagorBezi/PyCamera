@@ -1,5 +1,5 @@
 # PyCamera
-This camera that accesses your webcam. It might take a little while for the window to load.
+This camera accesses your webcam. It might take a little while for the window to load.
 Press 'q' to exit, 'cause that's the only way.
 
 Requirments:
